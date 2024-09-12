@@ -2,10 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #271b5e;
 }
 header {
-    background-color: #333;
+    background-color: #881818;
     color: #fff;
     padding: 15px 0;
     text-align: center;
@@ -36,7 +36,7 @@ nav {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 footer {
-    background-color: #333;
+    background-color: #28a1e7;
     color: #fff;
     text-align: center;
     padding: 10px 0;
