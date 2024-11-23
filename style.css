@@ -19,10 +19,10 @@ nav {
 .nav-link {
     color: #fff;
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 15px 20px;
     background-color: #555;
-    border-radius: 5px;
-    margin: 0 5px;
+    border-radius: 10px;
+    margin: 5 10px;
 }
 .nav-link:hover {
     background-color: #777;
